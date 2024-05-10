@@ -6,7 +6,7 @@
  - Sklearn CountVectorizer has the inbuilt implementations for Bag of Words.
 
 ## About Data: Fake News Detection
-- Credits: (https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+- Credits: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
   - This data consists of two columns. - Text - label
   - Text is the statements or messages regarding a particular event/situation.
   - label feature tells whether the given Text is Fake or Real.
